@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 
 x = [1, 2, 3, 4, 5]
-y = [10, 20, 30, 40, 50]
+y = [10, 20, 30, 40, 51]
 
 plt.scatter(x, y)
 plt.xlabel('X Axis')
